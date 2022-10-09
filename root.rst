@@ -32,7 +32,7 @@ Important general rules
 -----------------------
 
 Turn
-  initial turn order and starting player is random (only faction setup order is not)
+  initial turn order and starting player is random (only faction setup order - if not using advanced setup - is not)
   each player plays their three phases (Birdsong, Daylight, Evening), then the next player follows
 
 Craft
@@ -89,6 +89,7 @@ Placing Buildings/Tokens
   take from the leftmost, return to rightmost slot
 
 Setup
+  select map as group
   choose faction
   place score marker
   draw 3 cards
@@ -96,8 +97,49 @@ Setup
   form item supply
   set up factions in order (if two vagabond: randomly decide which one goes first)
 
+Advanced Setup
+  select map as group
+  place ruins
+  form item supply
+  from last to first player in reverse turn order:
+    draw five cards
+    set up hirelings (if any left)
+  deal setup cards (no insurgent for two players - grey name with no sword), first only insurgent, then all the rest to have two cards per player
+  handle ifs
+  from last to first player in reverse turn order:
+    choose faction (the two cards given)
+    place score marker
+    set up faction
+  from last to first player in reverse turn order:
+    return two cards to shared deck
+  shuffle shared deck
+
+Score
+  remove enemy building or token: 1 VP each (unless done by hireling)
+  crafting: VP listed on card (except Hundreds/Eyrie)
+  unique VP scoring per faction
+
 Win
   first player to reach 30 points or fulfil his played out dominance card
+
+Hirelings
+---------
+
+general rules:
+  can add up to three hirelings of any unused faction to a game
+  first player reaching a hireling marker on the score chooses a hireling card at their evening and rolls for control
+  roll for control: place control markers on hireling card equal to the number of gold pips on the die (if they have the most VP or are tied for most), all pips otherwise (also with dominance cards)
+  at the end of every round, one command marker is taken from the hireling card (backside of hireling marker acts as reminder)
+  if there are no command markers left on any hireling card, it is passed on to any other player, who rolls for control immediately
+
+special rules that may be unclear:
+  hireling pieces count towards player rule (even if only hirelings are present in a clearing) but they are not considered the controller's pieces for anything else
+  uncontrolled hirelings can rule hirelings as if they were players
+  unless under your control, hirelings are enemies to you
+  hirelings can only act with their own actions and move and battle alone
+  hirelings cannot use controller's abilities, cards or ambush cards
+  as an attacker with hirelings you do not get points for destroying enemy pieces
+  hirelings trigger outrage (Alliance) and you draw a card when moving a hireling with a ferry
 
 Factions
 --------
@@ -154,7 +196,7 @@ Eyrie Dynasties (reach 7)
   Strategy:
     the suits of your cards are important for you
     starting leader depends on your cards
-      if you have two cards of your current clearing: start Charismatic with two cards in, trigger Turmoil, pick Despot next
+      if you have two cards of your current clearing: start Charismatic with two cards in Recruit, trigger Turmoil, pick Despot next
       if you have a bird card and a card of your current clearing: start Charismatic (pick fights)
       else: start with Despot (fast growth, aggressive playstyle)
     second leader:
@@ -375,6 +417,7 @@ Riverfolk Company (reach 5)
       mercenaries: during daylight and evening of this turn, the Riverfolk warriors are the paying player's for ruling and battling (not Dominance)
       hits in battle must be split, odd hits go to the paying player's pieces, but buildings and tokens are destroyed after all warriors are dead (including Riverfolk)
       the Vagabond cannot buy Mercenaries
+      Mercenaries can be used without being in the same clearing
   Strategy:
     remind players to use your services, point out opportunities
     place your initial pieces in spaces along the river, defend these
@@ -396,7 +439,7 @@ Riverfolk Company (reach 5)
 Underground Duchy (reach 8)
   *establish a political system and keep your power among the suits*
   general rules:
-    you craft with your buildings (citadels and markets), activating one building gives you its clearing's suit for crafting, buildings cannot be activated more than once
+    you craft with your buildings (citadels and markets), activating one building gives you its clearing's suit for crafting, buildings cannot be activated more than once per turn
     you may take 2 actions (take in any number and order) plus those of your swayed ministers (take once in any order)
     you get card bonus on your markets building track (and additional warriors to your barrow on your citadels building track)
     you score mainly by swaying ministers, some of which give you victory points each round for tunnels and buildings on the map
@@ -453,6 +496,53 @@ Corvid Conspiracy (reach 3)
 
 Attribution: Strategies gained thanks to Lord of the Board and Legendary Tactics on Youtube
 
+Lord of the Hundreds (reach 9)
+  *battle to destroy your enemies and loot their items to recruit more warriors*
+  general rules:
+    you craft with your strongholds
+    you may take one action (move, battle, build) for each of your commands, you can repeat actions and use them in any order; then you may take one action (move and battle with warlord) for each of your prowess
+    you get no card bonus
+    you score each turn for every clearing you rule with no enemy piece of any kind on it
+    good card crafts: Scouting Party, Better Burrow Bank, Stand and Deliver, Armorers, Royal Claim, Tax Collector
+  special rules that may be unclear:
+    you can score extra VPs when crafting that do not come from the crafted items themselves
+    items that do not fit in the hoard are removed permanently
+    you cannot loot the Vagabond and you can only loot players with items in their item box
+    when looting, you can still deal extra hits (just none from the dice)
+    clearings with multiple strongholds get as many warriors as strongholds during Recruit
+    if you are lavish and cannot change to another mood, stay lavish
+    Advance allows you to move and battle, move only, battle only or do neither for each Prowess
+  Strategy:
+    protect your warlord if you have higher prowess to spawn more warriors
+    get Rowdy early and Coins late to have more cards
+    get items from ruins with mobs
+  Strategy Against:
+    prevent them from spreading
+    kill the warlord
+    add pieces into clearings to force them into battle or prevent oppress
+    craft late in the game to avoid looting or pass on items to the Vagabond
+    prevent them from getting items from ruins
+
+Keepers in Iron (reach 8)
+  *travel around the forest and establish local rule to gather relics*
+  general rules:
+    you craft with your waystations (any type)
+    you may take the specified actions for each of your cards in retinue (in a matching suit clearing)
+    you get card bonus by having waystations on the map
+    you score by gathering relics fro clearings (you get points equal to their value) and by gathering all relics of a type
+    good card crafts: 
+  special rules that may be unclear:
+    if ambushed and hits are ignored, ignore one hit from the first ambush only
+    if forced to move, your warriors can still carry one relic each
+    waystations can be placed face-up or face-down
+  Strategy:
+    save high-value relics quickly and protect them with more Keepers
+    use low-value relics as defence when moving about
+  Strategy Against:
+    make it hard for them to move about and rule clearings
+    fighting warriors with relics can be hard, so focus on weak spots with no relic or weakly protected relics
+    destroy unprotected relics for extra points
+
 Suggested Faction Combinations
 ------------------------------
 
@@ -462,6 +552,7 @@ General rule: Add up faction reach to get to at least 17 (challenging) or to at 
 21 for 4 players
 25 for 5 players
 28 for 6 players
+-> ignored with advanced setup
 
 Six
 ...
@@ -474,6 +565,8 @@ Five
 
 Duchy, Eyrie, Alliance, Lizard, Vagabond
 Eyrie, Lizard, Riverfolk, Vagabond, Vagabond
+Hundreds, Keeper, Alliance, Riverfolk, Vagabond
+Hundreds, Keeper, Corvid, Riverfolk, Eyrie
 
 Four Players
 ............
@@ -483,6 +576,9 @@ Duchy, Eyrie, Corvid, Vagabond
 Duchy, Eyrie, Riverfolk, Lizard
 Marquise, Eyrie, Alliance, Riverfolk
 Marquise, Eyrie, Alliance, Vagabond
+Hundreds, Keeper, Marquise, Alliance
+Keeper, Duchy, Marquise, Riverfolk
+Hundreds, Lizard, Corvid, Riverfolk
 
 Three Players
 .............
@@ -502,6 +598,9 @@ Marquise, Vagabond, Vagabond
 Marquise, Eyrie, Vagabond
 Marquise, Eyrie, Alliance
 Eyrie, Alliance, Vagabond
+Eyrie, Keeper, Alliance
+Vagabond, Hundreds, Marquise
+Hundreds, Keeper, Corvid
 
 Two Players
 ...........
@@ -511,6 +610,8 @@ Marquise, Eyrie
 Marquise, Alliance
 Eyrie, Alliance
 Eyrie, Vagabond
+Hundreds, Keeper (optional hirelings: Marquise, Alliance, Eyrie)
+Hundreds, Marquise (optional hirelings: Vagabond, Alliance, Eyrie)
 
 Two Player Coop
 ...............
