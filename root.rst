@@ -1,7 +1,7 @@
 Root
 ====
 
-Below rules are meant as a reminder, a quick look-up and to support starting players to get into the game more easily. Read in addition to the faction sheet (and the gerneral rules if you are new to Root). Focus on your own faction and the "Strategy against" parts of the other factions present in the game. 
+Below rules are meant as a reminder, a quick look-up and to support starting players to get into the game more easily. Read in addition to the faction sheet (and the gerneral rules if you are new to Root). Focus on your own faction and the "Strategy against" parts of the other factions present in the game.
 
 :Time:
   20-30 min per player (with experienced players)
@@ -9,6 +9,11 @@ Below rules are meant as a reminder, a quick look-up and to support starting pla
   1-6 (2-4 without extensions)
 :Style:
   asymmetric wargame
+
+**Table of Contents**:
+
+.. contents:: :local:
+    :depth: 2
 
 Important glossary
 ------------------
@@ -90,6 +95,9 @@ Placing Buildings/Tokens
   | take from the leftmost, return to rightmost slot
 
 Setup
+-----
+
+Default Setup
   - select map as group
   - choose faction
   - place score marker
@@ -117,6 +125,9 @@ Advanced Setup
 
     - return two cards to shared deck
   - shuffle shared deck
+
+Scoring/Game End
+----------------
 
 Score
   | remove enemy building or token: 1 VP each (unless done by hireling)
