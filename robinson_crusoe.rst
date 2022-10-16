@@ -10,6 +10,11 @@ This gives an overview of the game meant as a reminder and a quick look-up. Foll
 :Style:
   cooperative survival game
 
+**Table of Contents**:
+
+.. contents:: :local:
+    :depth: 2
+
 Important glossary
 ------------------
 
@@ -220,20 +225,12 @@ Inaccessible island tiles
   | count as unexplored but cannot be explored or moved to, no action can be performed there, no tokens or markers can be placed there
   | inaccessible tiles can split the island
 
-Loose
-  | any character's health drops to the skull (the character dies)
-  | the last round ends and the scenario goal is not achieved
-  | the camp/shelter is located on a tile that becomes inaccessible
-
-Win
-  the scenario goal is achieved
-
 
 Round (6 phases)
-^^^^^^^^^^^^^^^^
+----------------
 
 event phase
-"""""""""""
+^^^^^^^^^^^
 *SKIPPED IN FIRST ROUND*
 
 | first player: reveal and resolve card(s) until event card is drawn (1-x)
@@ -248,15 +245,15 @@ event phase
 | resource gained are -> available resources
 
 morale phase
-""""""""""""
+^^^^^^^^^^^^
 first player: based on morale marker, may gain or loose determination tokens or choose to heal INSTEAD (rightmost space)
 
 production phase
-""""""""""""""""
+^^^^^^^^^^^^^^^^
 gain 1 resource for each source depicted on the current camp tile plus tokens/markers -> available resources
 
 action phase (main phase)
-"""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^
 planning stage
   | players discuss what to do and place their action pawns accordingly (all available character pawns must be placed, extra/neutral pawns are optional)
   | only one character resolves an action (only that character suffers consequences - positive or negative), others can support
@@ -288,7 +285,7 @@ end of action phase
   | apply effects of treasures, if permanent or future effect, place them next to the board for use by all players
 
 weather phase
-"""""""""""""
+^^^^^^^^^^^^^
 1. roll weather dice if applicable
 2. weather token effects are always applied, even if no dice are rolled
 3. resolve weather effects
@@ -306,7 +303,7 @@ weather phase
 6. discard all weather tokens
 
 night phase
-"""""""""""
+^^^^^^^^^^^
 healing is possible at any time during this phase (and unless resting or stated otherwise only during this phase)
 
 1. each character must eat (discard 1 food) or suffers 2 wounds (players decide who eats if there is not enough food)
@@ -325,7 +322,7 @@ if outside camp:
   | at the start of the round (end of night phase), return to camp and all resources etc. on your character sheet are moved to -> available resources
 
 Actions
-^^^^^^^
+-------
 
 threat
   | resolve a threat (lower part of an event card), discard the event card
@@ -364,6 +361,18 @@ arrange camp (camp action)
 rest (camp action)
   | character heals 1 normal wound per pawn
   | hammock and bed cannot be combined
+
+
+Scoring/Game End
+----------------
+
+Loose
+  | any character's health drops to the skull (the character dies)
+  | the last round ends and the scenario goal is not achieved
+  | the camp/shelter is located on a tile that becomes inaccessible
+
+Win
+  the scenario goal is achieved
 
 
 Difficulty adjustment
