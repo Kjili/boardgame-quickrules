@@ -10,6 +10,11 @@ This gives an overview of the complete collection meant as a reminder and a quic
 :Style:
   competitive worker placement game
 
+**Table of Contents**:
+
+.. contents:: :local:
+    :depth: 2
+
 Important glossary
 ------------------
 
@@ -46,7 +51,7 @@ OR
 Icons
 -----
 
-basket
+Basket
   any resource, not pearls
 
 Expansion cards
@@ -83,6 +88,15 @@ Market
   | *gain*: choose one of the available market tokens, gain resources and cards displayed and move it to the "trade" side
   | *trade*: choose one of the available market tokens, pay the resources listed and discard the cards, gain 3 point tokens and 2 of any resource, move the market token back to "gain" side
 
+Tickets
+  may not be used to move the frog ambassador, big critter or permanent workers
+
+Reserved cards
+  reserved cards do not count as part of the Meadow, Station cards or hand cards
+
+Pearlbrook
+^^^^^^^^^^
+
 Frog ambassador
   | does not count as a normal worker
   | can only be placed on frog locations
@@ -104,6 +118,9 @@ Wonders
   | once achieved, belong to you for the rest of the game
   | do not count as events
 
+Spirecrest
+^^^^^^^^^^
+
 Big critters
   | replace one of your critters
   | count as normal critters
@@ -112,6 +129,9 @@ Big critters
 Weather cards
   | pose rule restrictions until next season
   | you can only ignore weather if you play cards for free and weather would add costs
+
+Newleaf
+^^^^^^^
 
 Visitors
   when one visitor deck is empty, shuffle the discard, place one half below the non-empty deck and replenish the empty one with the other half
@@ -124,25 +144,20 @@ Train tiles
   | always replaced from the bag
   | only return used train cards to the bag if the bag is empty
 
-Tickets
-  may not be used to move the frog ambassador, big critter or permanent workers
-
-Reserved cards
-  reserved cards do not count as part of the Meadow, Station cards or hand cards
+Mistwood
+^^^^^^^^
 
 Nightweave
-^^^^^^^^^^
-
-| can be used as an opponent in solo and 2-player games
-| she is the starting player
-| she has no hand limit and her hand is hidden
-| when adding cards to her hand, always shuffle it
-| she does not gain or loose resources, cards or points when placing workers
-| she ignores costs when playing cards
-| she gains one point per card whenever you have to give her cards (and the cards)
-| she gains as many cards into her hand instead of resources when you have to give her those (but no points), discard the resources
-| she gains point tokens if you have to give her those
-| she ignores all texts on locations and on cards she plays (e.g. she can play copies of uniques), the fool is the only exception (she will play it into your city if she can, else discard it as an action)
+  | can be used as an opponent in solo and 2-player games
+  | she is the starting player
+  | she has no hand limit and her hand is hidden
+  | when adding cards to her hand, always shuffle it
+  | she does not gain or loose resources, cards or points when placing workers
+  | she ignores costs when playing cards
+  | she gains one point per card whenever you have to give her cards (and the cards)
+  | she gains as many cards into her hand instead of resources when you have to give her those (but no points), discard the resources
+  | she gains point tokens if you have to give her those
+  | she ignores all texts on locations and on cards she plays (e.g. she can play copies of uniques), the fool is the only exception (she will play it into your city if she can, else discard it as an action)
 
 Nightweave Turn
 """""""""""""""
@@ -196,28 +211,9 @@ Deck
 Card bonus
   not earned when playing the card which gives the bonus itself
 
-Passing/Game End
-  | at the end of autumn, you may pass (instead of preparing for season), then wait for others to finish (discard your hand if playing with 5-6 players, score first)
-  | a passed player cannot receive resources or cards (discard instead if no other player can be given these), but can receive point tokens
-  | the workers of a passed player remain where they are, blocking actions
-  | game ends when all players have passed
-  | Spirecrest: immediately after passing, your traveler can go on your expedition
-  | -  gain points by paying the costs for each step
-  | -  travel in the given order, stop any time (even in Everdell)
-
-Score
-  | sum up the base value of cards, point tokens, purple prosperity card bonuses, journey points, events
-  | + garland awards (Bellfaire)
-  | + adornment points, wonder points, 2 points per pearl (Pearlbrook)
-  | + discovery cards, earned expedition points (Spirecrest)
-  | + visitor cards (Newleaf) - leftover resources required here can be used for other bonuses as well
-
-Win
-  the player with the most points at the end of the game (if tie: most events, if tie: most resources)
-
 
 Actions
-^^^^^^^
+-------
 
 Each turn, must do one of
 
@@ -257,3 +253,25 @@ Each turn, must do one of
      | put the two left-over cards face-down below their deck
   3. travel: move your traveler to the next area (last is your expedition), reveal unrevealed weather and map tiles
 
+
+Scoring/Game End
+----------------
+
+Passing/Game End
+  | at the end of autumn, you may pass (instead of preparing for season), then wait for others to finish (discard your hand if playing with 5-6 players, score first)
+  | a passed player cannot receive resources or cards (discard instead if no other player can be given these), but can receive point tokens
+  | the workers of a passed player remain where they are, blocking actions
+  | game ends when all players have passed
+  | Spirecrest: immediately after passing, your traveler can go on your expedition
+  | -  gain points by paying the costs for each step
+  | -  travel in the given order, stop any time (even in Everdell)
+
+Score
+  | sum up the base value of cards, point tokens, purple prosperity card bonuses, journey points, events
+  | + garland awards (Bellfaire)
+  | + adornment points, wonder points, 2 points per pearl (Pearlbrook)
+  | + discovery cards, earned expedition points (Spirecrest)
+  | + visitor cards (Newleaf) - leftover resources required here can be used for other bonuses as well
+
+Win
+  the player with the most points at the end of the game (if tie: most events, if tie: most resources)
