@@ -102,13 +102,13 @@ Default Setup
   - choose faction
   - place score marker
   - draw 3 cards
-  - place ruins (if two vagabonds: use both sets of "R" items and place two in each ruin)
+  - place ruins (if two Vagabonds: use both sets of "R" items and place two in each ruin, if only Hundreds: place one set of items, else none for hundreds)
   - form item supply
   - set up factions in order (if two vagabond: randomly decide which one goes first)
 
 Advanced Setup
   - select map as group
-  - place ruins
+  - place ruins (if two Vagabonds: use both sets of "R" items and place two in each ruin, if only Hundreds: place one set of items, else none for hundreds)
   - form item supply
   - from last to first player in reverse turn order:
 
@@ -374,6 +374,8 @@ Ranger vs Marquise
   | hard, as you need extra boots for every clearing (if you make them your enemy)
 Vagabond vs Alliance/Corvids
   | revolts from Alliance and bombs from Corvids hurt you a lot, because they damage your items
+Vagabond vs Hundreds
+  | try to get the ruin items before the Hundreds can
 
 Lizard Cult (reach 2)
 ^^^^^^^^^^^^^^^^^^^^^
@@ -530,6 +532,10 @@ Strategy Against:
   | work together to extort or destroy undefended plot tokens before they are revealed
   | remove Corvid warriors in critical clearings before they can lay down new plots
   | try to guess plots and use Exposure to remove them
+Corvids vs Hundreds
+  | their mobs destroy your plots before they have any effect (unless you can place raids effectively)
+  | they have a lot of movements and battles while you have a lot of trouble moving and battling
+  | try to keep under the radar, join with other players and put down snares in protected spots to prevent mobs from spreading to your valuable plots
 
 Lord of the Hundreds (reach 9)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -557,7 +563,7 @@ Strategy Against:
   | prevent them from spreading
   | kill the warlord
   | add pieces into clearings to force them into battle or prevent oppress
-  | craft late in the game to avoid looting or pass on items to the Vagabond
+  | craft only late in the game to avoid looting or pass on items to the Vagabond
   | prevent them from getting items from ruins
 
 Keepers in Iron (reach 8)
