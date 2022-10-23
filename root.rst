@@ -257,17 +257,16 @@ general rules:
   - you *score* mainly by placing sympathy tokens
   - good card crafts: Armorers, Tax Collectors, Better Burrow Bank, Stand and Deliver, Scouting Cards, Codebreakers
 special rules that may be unclear:
-  | supporter stack:
-  | - face-down stack of cards (Woodland Alliance player can look at the cards any time)
-  | - supporters can only be spend for their suit and do not count towards hand size
-  | - the stack size is unlimited if any base is present on the map
   | Outrage includes bird cards
   | a sympathetic clearing is one with sympathy tokens, others are unsympathetic clearings
   | revolt can only be used if a base can be placed
   | revolt scores points for removed tokens and buildings as in normal battle
   | if there are no sympathetic clearings, you can spread sympathy to any, else it needs to be adjacent to a sympathetic clearing
   | no clearing can have more than one sympathy token
-  | craft items to stay friends with the Vagabond
+  | **supporter stack**:
+  | - face-down stack of cards (Woodland Alliance player can look at the cards any time)
+  | - supporters can only be spend for their suit and do not count towards hand size
+  | - the stack size is unlimited if any base is present on the map
 Strategy:
   | early game (1-10 points): spread sympathy, place it in spaces with most connections/movements
   | first round: spread sympathy three times in central, high-traffic areas
@@ -295,6 +294,7 @@ Strategy Against:
   | if Alliance has many officers but few supporters, leave sympathy in place, else take sympathy out
 Alliance vs Vagabond
   | Vagabond ignores your sympathy token effect and can make you an enemy for extra points, also his crossbow ignores your Guerilla Warfare
+  | craft items to stay friends with the Vagabond
 
 Vagabond (reach 5, second Vagabond reach 2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -315,7 +315,7 @@ special rules that may be unclear:
   | there is one quest deck, from which three cards are drawn for setup and these three are replenished during the game
   | quest suits need to match your clearing
   | exhausting the torch allows you to take the action on your character card
-  | items:
+  | **items**:
   | - exhausting an item flips it face down (and moves it from its track to the satchel), refreshing it flips it face up, damaging it puts it in the damaged slot, repairing it puts it in the satchel or its track
   | - teapots, coins and bags are put face up in their respective item tracks when gained, they are not exhausted
   | - face-up, undamaged items can be freely moved from item track to satchel and back
@@ -323,26 +323,26 @@ special rules that may be unclear:
   | - the damaged item box is part of your satchel
   | - items removed because your satchel is full leave the game permanently
   | - exhausting one hammer repairs one item
-  | battle:
+  | **battle**:
   | - your maximum hits are capped by your undamaged swords (exhausted or not does not matter) plus all present allied warriors you want to battle with (if any)
   | - for every hit taken you need to damage an item or remove an allied warrior (check hostility for the latter!)
   | - you are defenseless if you have no undamaged sword
-  | relationships:
+  | **relationships**:
   | - aiding a hostile player does not improve relationships (but you can aid them to take items)
   | - aiding players cannot be stacked, you'll need a total of six cards to get an ally
   | - moving with or attacking with an ally only works as part of your own pawn's movement/attack
   | - sacrificing more allied warriors than damaging items in a fight makes your ally hostile at the end of the battle
   | - else, removing a warrior of a non-hostile player immediately makes this player hostile (this warrior does not yet yield the extra point)
   | - removing non-warrior pieces of a non-hostile player does not change the relationship
-  | coalition (with 4+ players):
+  | **coalition** (with 4+ players):
   | - you can activate a dominance card and coalition with the player with the least VP (Vagabond chooses if tied), placing your score marker on their board (only of that player has not activated a dominance card yet)
   | - if that player wins, you win
   | - the chosen player still plays toward 30 points but may also play their own dominance cards (all you do with the dominance card is remove your own scoring and win with that player)
   | - if you choose a hostile player, put the relation marker back to indifferent
-  | if two Vagabond in play:
+  | **if two Vagabond in play**:
   | - you can choose the first item explored in a ruin and explore again to take both if they are different but each of you can only own one "R" item of a certain type
   | - quests are shared (either Vagabond can complete any of the three)
-  | exploring without taking an item does not give a VP but exhausts the torch anyway
+  | - exploring without taking an item does not give a VP but exhausts the torch anyway
 Strategy (general):
   | be aware of the map and other faction boards each turn, use opportunities for points
   | pick starting clearing based on ruin path, getting to each faction quickly if they craft but be non-aggressive with Tinker, stay away from factions that profit from more building space like Marquise
@@ -358,11 +358,11 @@ Strategy (general):
   | use the quests when you have nothing else to do or it is convenient, or start quests early to allow for high-VP quests later
   | do not give away bird cards, give away item cards others may want to craft
   | play style: tinkerer (friendly play, only one who can craft favor cards), ranger (aggressive play), thief (stealth, balanced)
-  | additional Vagabonds:
+  | **additional Vagabonds**:
   | - arbiter (strongest start for fighting, choose enemy faction quickly, stick to clearings with likely fights)
   | - vagrant (alliances and disruption)
   | - scoundrel (disruption, high mobility)
-  | quests:
+  | **quests**:
   | - fox: needs torch, tea pot, boots, hammer, bag, coins
   | - mouse: needs torch, bag, 2x sword, 2x boots, crossbow
   | - rabbit: needs torch, tea pot, 2x sword, boots, crossbow
@@ -400,15 +400,15 @@ general rules:
   - good card crafts: Command Warren, Cobbler, Better Burrow Bank, Stand and Deliver, Royal Claim
 special rules that may be unclear:
   | Pilgrim overrides the Eyrie's Lord of the Forest
-  | outcasts/lost souls:
-  | - you collect ALL player's discarded and spent cards in your lost souls, including Dominance cards and your own cards
-  | - every player can check your lost souls any time
-  | - if suits tie for outcast, the current outcast stays outcast and becomes hated
-  | - once you discard your Lost Souls to the discard pile, the Dominance cards become available
   | cards revealed cannot be reused during that turn and acolytes spent go back to the Lizard supply
   | place cards you revealed in front of you
   | convert and sanctify need to be completed (you need to be able to place a warrior/garden of matching suit to do them)
   | you can recruit in any matching clearing (no further restriction)
+  | **outcasts/lost souls:**
+  | - you collect ALL player's discarded and spent cards in your lost souls, including Dominance cards and your own cards
+  | - every player can check your lost souls any time
+  | - if suits tie for outcast, the current outcast stays outcast and becomes hated
+  | - once you discard your Lost Souls to the discard pile, the Dominance cards become available
 Strategy:
   | cards are your power, keep a large hand, consider having at least 5 in your hand before you spend any
   | have different suits in your hand to stay flexible
@@ -454,7 +454,7 @@ special rules that may be unclear:
   | make your hand cards very expensive when you draw a card you want to keep
   | build up troops if noone buys from you
   | raid the rivers if you get the opportunity for points
-  | services:
+  | **services**:
   | - players buy services with as many warriors from their supply as the service costs, placing them in your payment box
   | - the Vagabond pays by exhausting items - for each item they exhaust, the you place one of your warriors in the payment box
   | - service costs need not be changed in Evening
