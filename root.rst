@@ -34,6 +34,9 @@ Suit
   | birds are wild and match any suit
   | cards can be used for their suit marked on the upper left corner of the card to trigger effects
 
+Place a Warrior
+  | whenever it says "place a warrior", take it from your supply
+
 Important general rules
 -----------------------
 
@@ -57,10 +60,12 @@ Battle
   | multiple battle rounds need to be initiated as new battles
   | defender can play ambush cards matching the clearing's suit -> 2 immediate hits
   | attacker can react with an ambush card matching the clearing's suit -> no ambush
+  | defenseless defenders can play ambush cards
   | attacker gets the higher roll, defender the lower
   | min(warriors present, rolled hits) are taken on each side
   | extra hits are not limited by, i.e. are independent of, the number of warriors present in the clearing
   | defenseless clearings (no warriors present) give 1 extra hit to the attacker
+  | extra hits can be added after rolling the dice
   | warriors are always removed before buildings/tokens
   | tokens and buildings need to be attacked, the affected players decide which building/token they remove when hit
   | each player scores 1 point for each removed enemy token or building (also outside battle)!
@@ -307,6 +312,7 @@ special rules that may be unclear:
   | you can slip into an adjacent forest (also from a forest into an adjacent forest) and slip or move out of a forest to an adjacent clearing
   | slip ignores all effects preventing movement, including the Corvid's snare, and ignores the extra cost of hostile clearings
   | removing the last item from a ruin removes the ruin
+  | there is one quest deck, from which three cards are drawn for setup and these three are replenished during the game
   | quest suits need to match your clearing
   | exhausting the torch allows you to take the action on your character card
   | items:
@@ -327,6 +333,7 @@ special rules that may be unclear:
   | - moving with or attacking with an ally only works as part of your own pawn's movement/attack
   | - sacrificing more allied warriors than damaging items in a fight makes your ally hostile at the end of the battle
   | - else, removing a warrior of a non-hostile player immediately makes this player hostile (this warrior does not yet yield the extra point)
+  | - removing non-warrior pieces of a non-hostile player does not change the relationship
   | coalition (with 4+ players):
   | - you can activate a dominance card and coalition with the player with the least VP (Vagabond chooses if tied), placing your score marker on their board (only of that player has not activated a dominance card yet)
   | - if that player wins, you win
@@ -355,6 +362,10 @@ Strategy (general):
   | - arbiter (strongest start for fighting, choose enemy faction quickly, stick to clearings with likely fights)
   | - vagrant (alliances and disruption)
   | - scoundrel (disruption, high mobility)
+  | quests:
+  | - fox: needs torch, tea pot, boots, hammer, bag, coins
+  | - mouse: needs torch, bag, 2x sword, 2x boots, crossbow
+  | - rabbit: needs torch, tea pot, 2x sword, boots, crossbow
 Strategy (friendly):
   | aid weak players and those that don't attack you
   | get coins early to get cards to aid other players
@@ -368,7 +379,7 @@ Strategy Against:
   | strike Tinker early
   | avoid ruin clearings if you do not want to fight the Ranger
   | attack Vagabonds that come close to being your ally
-  | avoid crafting items the Vagabond needs (like the bag), e.g. craft coins
+  | avoid crafting items the Vagabond needs (like the bag and tea pot), e.g. craft coins
   | attack the Vagabond when he gets to 20 points
 Ranger vs Marquise
   | hard, as you need extra boots for every clearing (if you make them your enemy)
