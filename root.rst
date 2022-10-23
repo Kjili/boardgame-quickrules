@@ -1,12 +1,12 @@
 Root
 ====
 
-Below rules are meant as a reminder, a quick look-up and to support starting players to get into the game more easily. Read in addition to the faction sheet (and the gerneral rules if you are new to Root). Focus on your own faction and the "Strategy against" parts of the other factions present in the game.
+Below rules are meant as a reminder, a quick look-up and to support starting players to get into the game more easily. Read in addition to the faction sheet (and the general rules if you are new to Root). Focus on your own faction and the "Strategy against" parts of the other factions present in the game.
 
 :Time:
   20-30 min per player (with experienced players)
 :# Players:
-  1-6 (2-4 without extensions)
+  1-6 (2-4 without expansions)
 :Style:
   asymmetric wargame
 
