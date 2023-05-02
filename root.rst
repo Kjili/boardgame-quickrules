@@ -496,7 +496,7 @@ special rules that may be unclear:
   | you rule the Burrow even with no pieces there
   | nobody else can place or move any pieces to your Burrow
   | if you have multiple ministers of equal rank, you choose which to return as Price of Failure
-  | you must have a crown of a matching rank on your faction board in order to sway a minister of that rank
+  | you must have a crown of a matching rank on your faction board in order to sway a minister of that rank (if you loose a crown, you loose the option to sway a minister)
   | swayed ministers are placed above your faction board, the crown used to sway it is put on that card
 Strategy:
   | defend 2-3 clearings in early game, focus on multi-building clearings to be able to defend better
