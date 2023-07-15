@@ -35,8 +35,11 @@ Pay
   return resources to general supply
 
 Draw
-  | draw from your main deck into your hand (unless your hand is full)
-  | if you draw from the Meadow, draw all cards first, then replenish (if you play from the Meadow, replenish immediately)
+  | default: draw from the main deck into your hand (until your hand is full)
+  | only draw from Meadow if explicitely told, draw all cards first, then replenish (if you play from the Meadow, replenish immediately)
+
+Discard
+  | discard facedown from your hand to the discard pile
 
 Reveal
   reveal cards drom the main deck for all to see
@@ -58,6 +61,90 @@ Expansion cards
   | Bellfaire: bell symbol
   | Pearlbrook: river symbol
   | Newleaf: train symbol
+
+
+Important general rules
+-----------------------
+
+Events
+  once achieved, belong to you for the rest of the game
+
+Worker placement restrictions
+  | forest locations: only one worker per player in general
+  | destination cards: everywhere in own city, at "open" signs in opponent citys (opponent gains point tokens from the general supply, as indicated on the "open" signpost)
+  | shared locations (none, see above)
+  | exclusive locations (only one, see above)
+  | locations with numbers: only if there are at least that amount of players in the game
+  | frog locations: can only place frog ambassador
+
+City restrictions
+  | maximum of 15 spaces (spaces equals cards except for events, adornments, discoverys, visitors)
+  | + one for each legendary card placed in the city
+  | only one copy of uniques/legendaries per city
+  | once a legendary is played, the card listed in the red banner cannot be played any more
+  | common cards can be played multiple times
+  | only one free critter per construction (use occupied token)
+  | you cannot discard cards unless an action says so (warning: permanent workers, points tokens and resources are lost with their cards)
+
+Occupied tokens
+  | placed when playing a free critter
+  | are not removed when critter is removed (and critter is not removed when building is removed)
+  | golden banners require golden occupied tokens (Newleaf)
+  | you can never use more than three golden occupied tokens during one game (if the building is removed, you do not get it back)
+
+Hand limit
+  | 8 cards (or 7 when playing with 5-6 players)
+  | you CANNOT GAIN cards that would give you more than the allowed limit of cards
+  | when you give cards to an opponent, choose one who has room in hand, discard all that do not
+
+Deck
+  shuffle the discard if the deck runs out of cards to create a new deck
+
+Card bonus
+  not earned when playing the card which gives the bonus itself
+
+
+Actions
+-------
+
+Each turn, must do one of
+
+- **place a worker**: must immediately do the action (if multiple actions, at least one must be done) or take the resources
+
+  **OR** place your frog ambassador (Pearlbrook)
+
+  **OR** move a worker once during the game by flipping the outbound ticket (Newleaf)
+
+  **OR** move a worker once during the game after preparing for summer by discarding the inbound ticket (Newleaf)
+- **play a card**: pay for a card on our hand or the meadow or station cards (Newleaf) and play it face-up in front of you
+
+  1. use ONE card-playing ability (any effect that influences the cost, only one allowed - not a player power, which can be combined with a card-playing ability)
+  2. pay resources or place occupied token or discard card named in red banner to play legendary card for free (move occupied tokens and workers to legendary card but do not activate worker actions)
+  3. replenish the meadow or station cards (Newleaf)
+  4. if the card action is to remove a card from your city, remove it now
+  5. place the card in your city
+  6. resolve the card effect, if any, unless done already by removing a card
+  7. resolve triggered effects from other cards in YOUR city, you can determine effect order (no effects are triggered when playing cards in an opponent's city)
+  8. if playing a station card: gain the reward of the train tile NEXT TO the card (Newleaf)
+  9. if playing a reserved card: flip reservation token to season side to make it unusable (Newleaf)
+
+  **OR** play an adornment card (Pearlbrook)
+- **reserve a card**: put a card from meadow/station cards under your reserve token, this costs one fewer resource when played in a future turn (counts as card-playing ability) (Newleaf)
+- **prepare for season**: if you have no worker left, finish the current season (only for yourself, other players may remain in the season), gather workers and do seasonal actions
+
+  1. bring back all workers that are non-permanent, and your frog ambassador
+  2. gain bonuses listed for the next season (green production cards are activated in the order you choose)
+  3. flip reservation token if used to make it usable again or discard the card below if you want to (Newleaf)
+
+  **AND** then explore (Spirecrest)
+
+  1. chart: take a map tile from your rabbit traveler's area and place it to the right of your expedition
+  2. discover: reveal 3 discoveries from your traveler's area and play 1 after paying the costs
+  
+     | place them from left to right (top to bottom card) under the mountain board with the shown costs
+     | put the two left-over cards face-down below their deck
+  3. travel: move your traveler to the next area (last is your expedition), reveal unrevealed weather and map tiles
+
 
 Special rules
 -------------
@@ -169,89 +256,6 @@ Nightweave Turn
    - else: do as much of the default action as possible
    no action if: she must play a card but cannot, she must discard a card but has none, she must place a worker but has none or all locations of that type are blocked, she must claim a special event but has already claimed one, she must build a wonder/place an adornment but cannot
 3. if Nightweave is in the Meadow, has no workers left to place and draws a card with a spider, she must immediately prepare for season
-    
-
-Important general rules
------------------------
-
-Events
-  once achieved, belong to you for the rest of the game
-
-Worker placement restrictions
-  | forest locations: only one worker per player in general
-  | destination cards: everywhere in own city, at "open" signs in opponent citys (opponent gains point tokens from the general supply, as indicated on the "open" signpost)
-  | shared locations (none, see above)
-  | exclusive locations (only one, see above)
-  | locations with numbers: only if there are at least that amount of players in the game
-  | frog locations: can only place frog ambassador
-
-City restrictions
-  | maximum of 15 spaces (spaces equals cards except for events, adornments, discoverys, visitors)
-  | + one for each legendary card placed in the city
-  | only one copy of uniques/legendaries per city
-  | once a legendary is played, the card listed in the red banner cannot be played any more
-  | common cards can be played multiple times
-  | only one free critter per construction (use occupied token)
-  | you cannot discard cards unless an action says so (warning: permanent workers, points tokens and resources are lost with their cards)
-
-Occupied tokens
-  | placed when playing a free critter
-  | are not removed when critter is removed (and critter is not removed when building is removed)
-  | golden banners require golden occupied tokens (Newleaf)
-  | you can never use more than three golden occupied tokens during one game (if the building is removed, you do not get it back)
-
-Hand limit
-  | 8 cards (or 7 when playing with 5-6 players)
-  | you CANNOT GAIN cards that would give you more than the allowed limit of cards
-  | when you give cards to an opponent, choose one who has room in hand, discard all that do not
-
-Deck
-  shuffle the discard if the deck runs out of cards to create a new deck
-
-Card bonus
-  not earned when playing the card which gives the bonus itself
-
-
-Actions
--------
-
-Each turn, must do one of
-
-- **place a worker**: must immediately do the action (if multiple actions, at least one must be done) or take the resources
-
-  **OR** place your frog ambassador (Pearlbrook)
-
-  **OR** move a worker once during the game by flipping the outbound ticket (Newleaf)
-
-  **OR** move a worker once during the game after preparing for summer by discarding the inbound ticket (Newleaf)
-- **play a card**: pay for a card on our hand or the meadow or station cards (Newleaf) and play it face-up in front of you
-
-  1. use ONE card-playing ability (any effect that influences the cost, only one allowed - not a player power, which can be combined with a card-playing ability)
-  2. pay resources or place occupied token or discard card named in red banner to play legendary card for free (move occupied tokens and workers to legendary card but do not activate worker actions)
-  3. replenish the meadow or station cards (Newleaf)
-  4. if the card action is to remove a card from your city, remove it now
-  5. place the card in your city
-  6. resolve the card effect, if any, unless done already by removing a card
-  7. resolve triggered effects from other cards in YOUR city, you can determine effect order (no effects are triggered when playing cards in an opponent's city)
-  8. if playing a station card: gain the reward of the train tile NEXT TO the card (Newleaf)
-  9. if playing a reserved card: flip reservation token to season side to make it unusable (Newleaf)
-
-  **OR** play an adornment card (Pearlbrook)
-- **reserve a card**: put a card from meadow/station cards under your reserve token, this costs one fewer resource when played in a future turn (counts as card-playing ability) (Newleaf)
-- **prepare for season**: if you have no worker left, finish the current season (only for yourself, other players may remain in the season), gather workers and do seasonal actions
-
-  1. bring back all workers that are non-permanent, and your frog ambassador
-  2. gain bonuses listed for the next season (green production cards are activated in the order you choose)
-  3. flip reservation token if used to make it usable again or discard the card below if you want to (Newleaf)
-
-  **AND** then explore (Spirecrest)
-
-  1. chart: take a map tile from your rabbit traveler's area and place it to the right of your expedition
-  2. discover: reveal 3 discoveries from your traveler's area and play 1 after paying the costs
-  
-     | place them from left to right (top to bottom card) under the mountain board with the shown costs
-     | put the two left-over cards face-down below their deck
-  3. travel: move your traveler to the next area (last is your expedition), reveal unrevealed weather and map tiles
 
 
 Scoring/Game End
