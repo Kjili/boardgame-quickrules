@@ -79,7 +79,7 @@ Dominance cards
   | activated dominance cards cannot be removed from play or be replaced -> change of winning strategy is permanent
 
 Items
-  | can only be used by the Vagabond
+  | can only be used by the Vagabond or Hundreds
   | can be crafted for points by anyone if available
   | if removed, are removed from the game permanently
 
@@ -140,7 +140,7 @@ Score
   | unique VP scoring per faction
 
 Win
-  first player to reach 30 points or fulfil his played out dominance card
+  first player to reach 30 points or fulfill his played out dominance card
 
 Hirelings
 ---------
@@ -184,22 +184,26 @@ special rules that may be unclear:
   | move: your two moves can be independent or you can gather/split forces in between or move with the same force twice
   | build: the clearing you choose to build in needs to be connected by a route of clearings ruled by you to the correct number of wood tokens (again, in a clearing ruled by you)
 Strategy:
+  | easy to play, hard to win with
   | bunny cards are good for you, consider placing your keep in any of the top two corners (but won't give you adjacency to two same faction clearings)
-  | start by building, overworking and building again (two recruits or one recruit, one workshop)
-  | next, build a recruit or sawmill, get your cats in position for defense
+  | early game:
+  | - start by building, overworking and building again (one recruit and one workshop or two recruits using bird cards for extra actions)
+  | - next, build a recruit or sawmill, get your cats in position for defense
+  | - you will loose territory, consider to draw back your cats to protect your buildings
   | use bird cards for extra actions (except for bird ambush)
   | do not build too many sawmills, especially not in the same clearing
   | build recruiters to increase control of the board
   | avoid crafting for points early
   | craft cards for more actions
-  | carefully consider when to go into combat, rather block your enemies and defend
-  | bird dominance can be rather easy for you
-  | protect your lumbermills!
+  | carefully consider when to go into combat, rather block your enemies and defend (unless you play against the Hundreds)
+  | protect your sawmills!
   | protect your Keep, to be able to use Field Hospitals
-  | you will loose territory, maybe draw back your cats in the beginning to protect your buildings
+  | dominance cards: bird dominance can be rather easy for you
 Strategy Against:
-  | strike at lumbermills
-  | destroy the keep if possible
+  | if they can't build, they have a hard time scoring (mostly ignoring them and not destroying their buildings can be an option)
+  | intervene with their path of ruled clearings between sawmills and building spaces to prevent builds
+  | strike at sawmills
+  | destroy the keep if possible (e.g. through Favor cards)
 
 Eyrie Dynasties (reach 7)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -219,14 +223,14 @@ special rules that may be unclear:
   | if there is no leader left after Turmoil, recover all of them
 Strategy:
   | the suits of your cards are important for you
-  | starting leader depends on your cards
-  | - if you have two cards of your current clearing: start Charismatic with two cards in Recruit, trigger Turmoil, pick Despot next
-  | - if you have a bird card and a card of your current clearing: start Charismatic (pick fights)
+  | starting leader depends on your cards:
+  | - if you have two cards of your current clearing: start Charismatic with two cards in Recruit, trigger Turmoil, pick Despot next (not in games against Hundreds)
+  | - if you have a bird card and a card of your current clearing or play against Hundreds: start Charismatic (pick fights)
   | - else: start with Despot (fast growth, aggressive playstyle)
   | second leader:
   | - choose Commander to defend and push advantage
   | - choose Builder to recover troops (if you lost them) and craft
-  | - choose Despot if you turmoiled very easy or a lot of your roosts have been destroyed
+  | - choose Despot if you turmoiled very early or a lot of your roosts have been destroyed
   | do not put more than two cards in recruit with the Charismatic leader
   | keep to your decree as long as possible but be aware that you will be in Turmoil eventually (try to avoid more than 2-3)
   | plan ahead for Turmoil (balance points gained and lost, try to Turmoil in your build phase and do everything else)
@@ -234,7 +238,7 @@ Strategy:
   | have one of each type of clearing and defend them heavily (and maybe a backup of each)
   | place bird cards in recruit (or if not possible use your starting clearing's suit, as it's usually the best defended)
   | place at least one bird card in battle early in the game - later, other suits can go here
-  | place only bird cards in build and do not place many here - this is your hardest to fulfil
+  | place one bird card in build - this is your hardest to fulfil
   | place your other cards in move and move your birds back and forth if necessary - this is your easiest to fulfil
   | sometimes it makes sense to retreat and let your opponents destroy a roost to safe your decree
   | try to avoid loosing cards
@@ -242,9 +246,14 @@ Strategy:
 Strategy Against:
   | force Turmoil (especially effective early in the game), unless they are aiming for that
   | take out the roosts
-  | Woodland Alliance is a strong enemy to the Eyrie
+  | Woodland Alliance is a strong enemy to the Eyrie due to card loss
+  | Hundreds are a strong enemy to the Eyrie due to their easy recruiting of warriors, early-game strength and aggressive playstyle
 Eyrie vs Woodland Alliance 
-  | destroy their sympathy with Despot, but do not move into clearings of which you own cards!, invoke martial law (have three warriors in adjacent clearings to theirs)
+  | destroy their sympathy with Despot
+  | do not move into clearings of which you own cards!
+  | invoke martial law (have three warriors in adjacent clearings to theirs)
+Eyrie vs Hundreds
+  | choose Charismatic leader and pick fights
 
 Woodland Alliance (reach 3)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -315,6 +324,7 @@ special rules that may be unclear:
   | there is one quest deck, from which three cards are drawn for setup and these three are replenished during the game
   | quest suits need to match your clearing
   | exhausting the torch allows you to take the action on your character card
+  | gets a point for each hostile piece removed during battle (warriors, buildings and tokens)
   | **items**:
   | - exhausting an item flips it face down (and moves it from its track to the satchel), refreshing it flips it face up, damaging it puts it in the damaged slot, repairing it puts it in the satchel or its track
   | - teapots, coins and bags are put face up in their respective item tracks when gained, they are not exhausted
@@ -334,10 +344,10 @@ special rules that may be unclear:
   | - sacrificing more allied warriors than damaging items in a fight makes your ally hostile at the end of the battle
   | - else, removing a warrior of a non-hostile player immediately makes this player hostile (this warrior does not yet yield the extra point)
   | - removing non-warrior pieces of a non-hostile player does not change the relationship
-  | **coalition** (with 4+ players):
-  | - you can activate a dominance card and coalition with the player with the least VP (Vagabond chooses if tied), placing your score marker on their board (only of that player has not activated a dominance card yet)
+  | dominance card **coalition** (with 4+ players):
+  | - you can activate any dominance card and coalition with the player with the least VP (Vagabond chooses if tied), placing your score marker on their board (only if that player has not activated a dominance card yet)
   | - if that player wins, you win
-  | - the chosen player still plays toward 30 points but may also play their own dominance cards (all you do with the dominance card is remove your own scoring and win with that player)
+  | - the chosen player still plays toward 30 points but may also play their own dominance card (all you do with the dominance card is remove your own scoring and win with that player)
   | - if you choose a hostile player, put the relation marker back to indifferent
   | **if two Vagabond in play**:
   | - you can choose the first item explored in a ruin and explore again to take both if they are different but each of you can only own one "R" item of a certain type
@@ -357,11 +367,14 @@ Strategy (general):
   | do not break tea pots, bags may be a good choice, depending on your satchel size and amount of items, next boots may be fine or coins, try not to damage weapons, damage exhausted items first!
   | use the quests when you have nothing else to do or it is convenient, or start quests early to allow for high-VP quests later
   | do not give away bird cards, give away item cards others may want to craft
-  | play style: tinkerer (friendly play, only one who can craft favor cards), ranger (aggressive play), thief (stealth, balanced)
-  | **additional Vagabonds**:
-  | - arbiter (strongest start for fighting, choose enemy faction quickly, stick to clearings with likely fights)
-  | - vagrant (alliances and disruption)
-  | - scoundrel (disruption, high mobility)
+  | favor cards: only the Tinker can craft them
+  | **play styles**:
+  | - Tinker (friendly play, most self-sustained Vagabond due to special action, can craft favor cards)
+  | - Ranger (aggressive play)
+  | - Thief (stealth, balanced)
+  | - Arbiter (strongest start for fighting, choose enemy faction quickly, stick to clearings with likely fights)
+  | - Vagrant (alliances and disruption)
+  | - Scoundrel (disruption, high mobility)
   | **quests**:
   | - fox: needs torch, tea pot, boots, hammer, bag, coins
   | - mouse: needs torch, bag, 2x sword, 2x boots, crossbow
@@ -381,16 +394,17 @@ Strategy Against:
   | attack Vagabonds that come close to being your ally
   | avoid crafting items the Vagabond needs (like the bag and tea pot), e.g. craft coins
   | attack the Vagabond when he gets to 20 points
-Ranger vs Marquise
-  | hard, as you need extra boots for every clearing (if you make them your enemy)
+Vagabond vs Marquise
+  | avoid making them your enemy early, as you'll need extra boots for every clearing
 Vagabond vs Alliance/Corvids
   | revolts from Alliance and bombs from Corvids hurt you a lot, because they damage your items
 Vagabond vs Hundreds
-  | try to get the ruin items before the Hundreds can
+  | get the ruin items before the Hundreds can
+  | get items from other players before the Hundreds can loot (Hundreds cannot loot you)
 
 Lizard Cult (reach 2)
 ^^^^^^^^^^^^^^^^^^^^^
-*seeks followers and executed rituals to gain power, heavily restricted in movement and battle except for radicalized fighters*
+*seeks followers and executed rituals to gain power, heavily restricted in movement and battle except for radicalized fighters that disrupt the board*
 
 general rules:
   - you *craft* with your gardens in outcast suits only!, activating one garden gives you its clearing's suit for crafting, gardens cannot be activated more than once, you cannot craft multi-suit cards
@@ -410,22 +424,25 @@ special rules that may be unclear:
   | - if suits tie for outcast, the current outcast stays outcast and becomes hated
   | - once you discard your Lost Souls to the discard pile, the Dominance cards become available
 Strategy:
+  | you have a lot of constraints on what you can do: slow and annoy your opponents, you're slow to win
   | cards are your power, keep a large hand, consider having at least 5 in your hand before you spend any
   | have different suits in your hand to stay flexible
-  | start building gardens and scoring early on (score them fast) and make sure to not fall behind, try to score every turn
+  | start building gardens and scoring early on to not fall behind but do not draw too much attention
+  | try to score every turn
   | defend your gardens
   | build 2-3 gardens of each suit (you can already get far with two stable gardens of two factions each)
   | focus your gardens, i.e. try to build two in one clearing
   | craft cards that give you cards and/or more actions
-  | spread quickly and hamper other player's movements to get players to fight you, so you get acolytes by the dead defenders
-  | promise players to not convert their pieces if they discard to your benefit
-  | use sanctify only for key buildings, maximizing damage
+  | you rule every clearing with a garden, use this to disrupt other player's movements and ruling
+  | get players to fight you, so you get acolytes by the dead defenders
+  | use sanctify only for key buildings, maximizing damage or rule disruption
   | aim for hated outcast as much as possible
-  | craft cards for points in late game
+  | promise players to not convert their pieces if they discard to your benefit
   | manage your cards for actions and your discards (for few players) for outcast actions
-  | dominance is a viable option for you
-  | use conspiracies (only) with hated outcast
-  | slow and annoy your opponents, you're slow to win
+  | craft cards for points in late game
+  | try to use conspiracies with hated outcast
+  | favor cards: with some planning ahead, you can craft a favor card comparatively easily
+  | dominance cards: dominance is a viable option for you
 Strategy Against:
   | discard to prevent hated outcasts
   | strike undefended gardens
@@ -512,7 +529,7 @@ Strategy Against:
 
 Corvid Conspiracy (reach 3)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*subdue the suits with criminal power, fulfil plots and misdirect through careful recruiting to avert exposure*
+*subdue the suits with criminal power, fulfill plots and misdirect through careful recruiting to avert exposure*
 
 general rules:
   - you *craft* with your plot tokens (face up or down ones), activating one plot token gives you its clearing's suit for crafting, plot tokens cannot be activated more than once
@@ -521,6 +538,7 @@ general rules:
   - you *score* mainly by revealing plot tokens (you score more for each)
   - good card crafts: Sappers, Stand and Deliver, Favor Cards, P&E: Master Engravers, Coffin Makers, Swap Meet
 special rules that may be unclear:
+  | you can only flip a plot token if you have a warrior in the same clearing
   | plot tokens on your faction board are always face down
   | you can inspect your face-down plot tokens on the map or on your faction board any time
   | players get a VP by removing your plots through exposure
@@ -536,13 +554,15 @@ Strategy:
   | get raid down early (no need for safe location)
   | keep track of plot tokens and in which order to reveal them, as you score points for each open one on the map (reveal bombs last)
   | moving with groups of three allows for many options
-  | put plot tokens into clearings of one faction, so they won't be able to remove them all
+  | put plot tokens into multiple clearings of the same suit and player, so they won't be able to remove them all
   | raid for points if you have the opportunity
   | defend your plot tokens
 Strategy Against:
   | work together to extort or destroy undefended plot tokens before they are revealed
   | remove Corvid warriors in critical clearings before they can lay down new plots
   | try to guess plots and use Exposure to remove them
+Corvids vs Riverfolk/Lizards/Duchy:
+  | keep track of the cards they show you to put plots in places where they cannot remove them
 Corvids vs Hundreds
   | their mobs destroy your plots before they have any effect (unless you can place raids effectively)
   | they have a lot of movements and battles while you have a lot of trouble moving and battling
@@ -567,15 +587,22 @@ special rules that may be unclear:
   | if you are lavish and cannot change to another mood, stay lavish
   | Advance allows you to move and battle, move only, battle only or do neither for each Prowess
 Strategy:
-  | protect your warlord if you have higher prowess to spawn more warriors
+  | start Jubilant to spread your race
+  | craft items early
+  | get items from ruins with mobs early
+  | loot players for items
+  | protect your warlord with warrior presence if you have higher prowess to spawn more warriors
   | get Rowdy early and Coins late to have more cards
-  | get items from ruins with mobs
 Strategy Against:
-  | prevent them from spreading
-  | kill the warlord
-  | add pieces into clearings to force them into battle or prevent oppress
+  | the Hundreds are extremely aggressive and can wipe single players early, **all players** need to fight them early (e.g. each battles them in one clearing each round)
+  | prevent them from getting items (from ruins or otherwise)
   | craft only late in the game to avoid looting or pass on items to the Vagabond
-  | prevent them from getting items from ruins
+  | prevent them from spreading
+  | kill the warlord, if possible
+  | add/leave single pieces in(to) clearings to force them into battle or prevent oppress
+Hundreds vs Vagabond
+  | you cannot loot the Vagabond
+  | try to get the ruin items before the Vagabond can
 
 Keepers in Iron (reach 8)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -599,7 +626,7 @@ Strategy Against:
   | fighting warriors with relics can be hard, so focus on weak spots with no relic or weakly protected relics
   | destroy unprotected relics for extra points
 
-**Attribution**: Strategies for most factions gained thanks to Lord of the Board and Legendary Tactics on Youtube
+**Attribution**: Strategies for most factions gained from own games and thanks to Lord of the Board and Legendary Tactics on Youtube
 
 Suggested Faction Combinations
 ------------------------------
