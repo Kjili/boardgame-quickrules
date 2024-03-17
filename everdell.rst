@@ -51,6 +51,9 @@ Resources
 OR
   exclusive or
 
+Copy
+  | if you copy the same card in an opponent's town, you can bounce back to copy your own cards
+
 Icons
 -----
 
@@ -224,7 +227,8 @@ Visitors
   when one visitor deck is empty, shuffle the discard, place one half below the non-empty deck and replenish the empty one with the other half
 
 Station cards
-  work like Meadow cards but are not considered to be Meadow cards
+  | work like Meadow cards but are not considered to be Meadow cards
+  | give you adjacent train tile when played (not when reserved)
 
 Train tiles
   | "gain 1 train car tile" revers to any train car tile
