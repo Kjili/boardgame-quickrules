@@ -726,34 +726,34 @@ Complexity
 
 From low to high:
 
-Marquise
-Hundreds/Eyrie
-Corvids
-Vagabond/Duchy/Alliance
-Riverfolk
-Keeper/Lizards
+  | Marquise
+  | Hundreds/Eyrie
+  | Corvids
+  | Vagabond/Duchy/Alliance
+  | Riverfolk
+  | Keeper/Lizards
 
 Chance to Win
 ^^^^^^^^^^^^^
 
 From low to high:
 
-Hundreds
-Duchy/Eyrie
-Vagabond/Riverfolk
-Alliance
-Corvids/Keeper
-Marquise
-Lizards
+  | Hundreds
+  | Duchy/Eyrie
+  | Vagabond/Riverfolk
+  | Alliance
+  | Corvids/Keeper
+  | Marquise
+  | Lizards
 
 Best for Beginners
 ^^^^^^^^^^^^^^^^^^
 
-Hundreds
-Eyrie
-Alliance
-Duchy
-Vagabond
+  | Hundreds
+  | Eyrie
+  | Alliance
+  | Duchy
+  | Vagabond
 
 The Standard Deck
 -----------------
