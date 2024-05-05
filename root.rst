@@ -146,6 +146,7 @@ Hirelings
 ---------
 
 general rules:
+  | designed for advanced setup only
   | can add up to 3 hirelings of any unused faction to a game
   | first player reaching a hireling marker on the score track chooses a hireling card at their evening and rolls for control
   | *roll for control:* place control markers on hireling card equal to the number of gold pips on the die (if they have the most VP or are tied for most), all pips otherwise (also with dominance cards)
@@ -154,9 +155,9 @@ general rules:
 
 special rules that may be unclear:
   | hireling pieces count towards player rule (even if only hirelings are present in a clearing) but they are not considered the controller's pieces for anything else
-  | uncontrolled hirelings can rule hirelings as if they were players
+  | uncontrolled hirelings can rule clearings as if they were players
   | unless under your control, hirelings are enemies to you
-  | hirelings can only act with their own actions and move and battle alone
+  | hirelings can only act with their own actions and move and battle alone (they do not participate in player battles or vice versa)
   | hirelings cannot use controller's abilities, cards or ambush cards
   | as an attacker with hirelings you do not get points for destroying enemy pieces
   | hirelings trigger outrage (Alliance) and you draw a card when moving a hireling with a ferry
@@ -619,6 +620,7 @@ special rules that may be unclear:
   | if forced to move, your warriors can still carry one relic each
   | waystations can be placed face-up or face-down
 Strategy:
+  | encamp twice during the first round for card draws
   | save high-value relics quickly and protect them with more Keepers
   | use low-value relics as defence when moving about
 Strategy Against:
@@ -713,3 +715,106 @@ Solo
 - Mechanical Marquise, Eyrie
 - Mechanical Marquise, Vagabond
 - Mechanical Marquise, Lizard
+
+Faction Difficulty
+------------------
+
+This is the difficulty based on our own experience and varies slightly from the game designer's assessment.
+
+Complexity
+^^^^^^^^^^
+
+From low to high:
+
+Marquise
+Hundreds/Eyrie
+Corvids
+Vagabond/Duchy/Alliance
+Riverfolk
+Keeper/Lizards
+
+Chance to Win
+^^^^^^^^^^^^^
+
+From low to high:
+
+Hundreds
+Duchy/Eyrie
+Vagabond/Riverfolk
+Alliance
+Corvids/Keeper
+Marquise
+Lizards
+
+Best for Beginners
+^^^^^^^^^^^^^^^^^^
+
+Hundreds
+Eyrie
+Alliance
+Duchy
+Vagabond
+
+The Standard Deck
+-----------------
+
+Fox (14 total)
+^^^^^^^^^^^^^^
+
+- Crafting: 12
+  - 1: Armourers, Anvil (2 VP), Crossbow (1 VP), Tax Collector (with 1 of the other's each)
+  - 2: Brutal Tactics, Sword (2 VP)
+  - 3: Favor
+- Ambush: 1
+- Dominance: 1
+
+Mouse (13 total)
+^^^^^^^^^^^^^^^^
+
+- Crafting: 11
+  - 1: Sappers, Codebreakers, Tea Pot (2 VP), Satchel (1 VP), Tax Collector (with 1 of the other's each)
+  - 2: Scouting Party
+  - 3: Favor, Stand and Deliver
+- Ambush: 1
+- Dominance: 1
+
+Rabbit (13 total)
+^^^^^^^^^^^^^^^^^
+
+- Crafting: 11
+  - 1: Shoes (1 VP), Tax Collector (with 1 of the other's each)
+  - 2: Better Burrow Bank, Command Warren, Cobbler, Coins (3 VP)
+  - 3: Favor
+- Ambush: 1
+- Dominance: 1
+
+Bird (14 total)
+^^^^^^^^^^^^^^^
+
+- Crafting: 11
+- Ambush: 2
+- Dominance: 1
+
+Extra Cards (draw or steal)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Tax Collector
+- Stand and Deliver
+- Better Burrow Bank
+
+Extra Actions
+^^^^^^^^^^^^^
+
+- Command Warren (battle)
+- Cobbler (move)
+
+Extra Hits
+^^^^^^^^^^
+
+- Sappers (as defender)
+- Brutal Tactics (as attacker)
+
+Extra Points
+^^^^^^^^^^^^
+
+- Royal Claim (4 of any suit)

@@ -4,7 +4,7 @@ Santorini
 Below rules are meant as a reminder, a quick look-up and to support starting players to get into the game more easily.
 
 :Time:
-  20 min per player
+  20-30 min
 :# Players:
   2-3 (4 as teams)
 :Style:
