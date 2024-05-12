@@ -270,9 +270,11 @@ special rules that may be unclear:
   | Outrage includes bird cards
   | a sympathetic clearing is one with sympathy tokens, others are unsympathetic clearings
   | revolt can only be used if a base can be placed
+  | revolt can be used if there is no place for an officer
   | revolt scores points for removed tokens and buildings as in normal battle
   | if there are no sympathetic clearings, you can spread sympathy to any, else it needs to be adjacent to a sympathetic clearing
   | no clearing can have more than one sympathy token
+  | favor card hits Alliance base and sympathy: the active player decides, which is removed first (and whether Alliance keeps the supporter or has to discard it)
   | **supporter stack**:
   | - face-down stack of cards (Woodland Alliance player can look at the cards any time)
   | - supporters can only be spend for their suit and do not count towards hand size
@@ -305,6 +307,8 @@ Strategy Against:
 Alliance vs Vagabond
   | Vagabond ignores your sympathy token effect and can make you an enemy for extra points, also his crossbow ignores your Guerilla Warfare
   | craft items to stay friends with the Vagabond
+Alliance vs Riverfolk
+  | Riverboats allows the Alliance to spread sympathy across rivers
 
 Vagabond (reach 5, second Vagabond reach 2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -499,6 +503,8 @@ Strategy Against:
   | starve them of resources (everyone needs to participate)
   | if there's many units in the fund box, cut them in half by removing a trading post
   | if you buy, buy when prices are low
+Riverfolk vs Alliance
+  | Riverboats allows the Alliance to spread sympathy across rivers
 
 Underground Duchy (reach 8)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -614,7 +620,7 @@ general rules:
   - you may take the specified *actions* for each of your cards in retinue (in a matching suit clearing)
   - you get *card bonus* by having waystations on the map
   - you *score* by gathering relics fro clearings (you get points equal to their value) and by gathering all relics of a type
-  - good card crafts: 
+  - good card crafts: Scouting Party
 special rules that may be unclear:
   | if ambushed and hits are ignored, ignore one hit from the first ambush only
   | if forced to move, your warriors can still carry one relic each
