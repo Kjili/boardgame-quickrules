@@ -39,7 +39,7 @@ objective
   | any number of them can be played from your hand (before or after Phase A and B of your turn), then trigger their immediate action
   | played cards have to be fulfilled at the end of the game to get points, else cost points
   | cards not played can be played at the end of the game before scoring
-  | resources are not shared between cards (if two cards require 1 teepee, you need 2 teepees to fulfill both)
+  | **resources are not shared between cards** (if two cards require 1 teepee, you need 2 teepees to fulfill both)
   | resources are shared between objective cards and station master tile goals
 
 locomotive movement
@@ -88,7 +88,7 @@ remove hazard tile
   | put a hazard tile from the map next to your player board and pay the price (if any is indicated)
 
 build
-  | place on an empty space or upgrade one of your buildings (old one is removed from the game)
+  | place on an empty space or upgrade one of your buildings to a higher-level one (old one is removed from the game)
   | you pay costs for each craftsman required and you can only build if you have enough craftsman
   | an upgrade requires less craftsman (and thereby money), i.e. the difference in required craftsman (if one building requires 1 and you upgrade to one that requires 3, you only need 2 craftsman)
   | buildings are identical for all players
