@@ -73,7 +73,7 @@ Battle
 Dominance cards
   | in play for 3+ players
   | can be played for their suit but are not discarded, instead made available to other players (put face-up next to the board)
-  | available cards can be picked up (in hand) in Daylight by spending a card of matching suit
+  | available cards can be picked up (in hand) in Daylight by spending a card of matching suit (spending a bird card means you can take any)
   | can be activated only when owning >= 10 victory points
   | can be activated in Daylight (played from hand) -> put it down face-up before you and change the winning strategy (points won't make you win any more)
   | activated dominance cards cannot be removed from play or be replaced -> change of winning strategy is permanent
@@ -170,10 +170,10 @@ If it says for actions "take in any number and order", this is still restricted 
 
 Marquise de Cat (reach 10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-*industrial and military power, strong presence everywhere, fixed set of actions*
+*industrial and military defense power, strong presence everywhere, fixed set of actions*
 
 general rules:
-  - you *craft* with your workshops, activating one workshop gives you its clearing's suit for crafting, workshops cannot be activated more than once
+  - you *craft* with your workshops, activating one workshop gives you its clearing's suit for crafting, workshops cannot be activated more than once per turn
   - you may take up to 3 *actions* from a given set of possible ones (take in any number and order), bird cards can grant extra actions
   - you get *card bonus* on your recruit building track
   - you *score* mainly through buildings
@@ -185,20 +185,23 @@ special rules that may be unclear:
   | move: your two moves can be independent or you can gather/split forces in between or move with the same force twice
   | build: the clearing you choose to build in needs to be connected by a route of clearings ruled by you to the correct number of wood tokens (again, in a clearing ruled by you)
 Strategy:
-  | easy to play, hard to win with
-  | bunny cards are good for you, consider placing your keep in any of the top two corners (but won't give you adjacency to two same faction clearings)
+  | easy to play, hard to win with (because your actions are extremely limited and you score slowly)
+  | setup:
+  | - bunny cards are good for you, consider placing your keep in any of the top two corners (but won't give you adjacency to two same faction clearings)
+  | - do not place your Keep in the lower right corner
   | early game:
-  | - start by building, overworking and building again (one recruit and one workshop or two recruits using bird cards for extra actions)
-  | - next, build a recruit or sawmill, get your cats in position for defense
-  | - you will loose territory, consider to draw back your cats to protect your buildings
-  | use bird cards for extra actions (except for bird ambush)
-  | do not build too many sawmills, especially not in the same clearing
-  | build recruiters to increase control of the board
-  | avoid crafting for points early
-  | craft cards for more actions
+  | - use overwork in your first or second turn
+  | - have two recruiters at the end of your second turn, recruit
+  | - amass your cats for defense
+  | crafting:
+  | - you suck at crafting, so you can mostly ignore it
+  | - avoid crafting for points early
+  | - craft cards for more actions, if possible
+  | use bird cards for extra actions or save for late game, if possible (except for bird ambush)
+  | spread sawmills across clearings
   | carefully consider when to go into combat, rather block your enemies and defend (unless you play against the Hundreds)
-  | protect your sawmills!
-  | protect your Keep, to be able to use Field Hospitals
+  | protect your sawmills or build many
+  | protect your Keep, to be able to use Field Hospitals! (saves you the recruiting action)
   | dominance cards: bird dominance can be rather easy for you
 Strategy Against:
   | if they can't build, they have a hard time scoring (mostly ignoring them and not destroying their buildings can be an option)
@@ -330,6 +333,7 @@ special rules that may be unclear:
   | quest suits need to match your clearing
   | exhausting the torch allows you to take the action on your character card
   | gets a point for each hostile piece removed during battle (warriors, buildings and tokens)
+  | resting repairs and refreshes the broken items, it does not refresh the unbroken ones; repairing with a hammer does not refresh an item
   | **items**:
   | - exhausting an item flips it face down (and moves it from its track to the satchel), refreshing it flips it face up, damaging it puts it in the damaged slot, repairing it puts it in the satchel or its track
   | - teapots, coins and bags are put face up in their respective item tracks when gained, they are not exhausted
@@ -358,6 +362,10 @@ special rules that may be unclear:
   | - you can choose the first item explored in a ruin and explore again to take both if they are different but each of you can only own one "R" item of a certain type
   | - quests are shared (either Vagabond can complete any of the three)
   | - exploring without taking an item does not give a VP but exhausts the torch anyway
+  | Arbiter Ability:
+  | - if enlisted, the defender in a fight adds the number of the Arbiter's undamaged sword to their warrior count to determine hits (e.g. with only 1 warrior and a defense 3 roll, they make three hits, but they never make more hits than rolled)
+  | - defenseless clearings still count as defenseless (attacker gets 1 extra hit) but the defending player may hit back with min(rolled hits, Arbiter undamaged swords)
+  | - the Arbiter does not fight, i.e. the relationship status does not change, the Arbiter gets no points for destroying buildings/tokens, nor will the Arbiter take any damage
 Strategy (general):
   | be aware of the map and other faction boards each turn, use opportunities for points
   | pick starting clearing based on ruin path, getting to each faction quickly if they craft but be non-aggressive with Tinker, stay away from factions that profit from more building space like Marquise
@@ -406,6 +414,9 @@ Vagabond vs Alliance/Corvids
 Vagabond vs Hundreds
   | get the ruin items before the Hundreds can
   | get items from other players before the Hundreds can loot (Hundreds cannot loot you)
+Vagabond vs Riverfolk
+  | you pay for services by exhausting items, the Riverfolk place the same number of their own warriors in the payment box
+  | you cannot purchase merchenaries
 
 Lizard Cult (reach 2)
 ^^^^^^^^^^^^^^^^^^^^^
@@ -423,6 +434,7 @@ special rules that may be unclear:
   | place cards you revealed in front of you
   | convert and sanctify need to be completed (you need to be able to place a warrior/garden of matching suit to do them)
   | you can recruit in any matching clearing (no further restriction)
+  | you only get acolytes for warriors removed in battle as defender, not through other removals outside battle (e.g. Vagabond crossbow) or as attacker
   | **outcasts/lost souls:**
   | - you collect ALL player's discarded and spent cards in your lost souls, including Dominance cards and your own cards
   | - every player can check your lost souls any time
@@ -447,7 +459,9 @@ Strategy:
   | craft cards for points in late game
   | try to use conspiracies with hated outcast
   | favor cards: with some planning ahead, you can craft a favor card comparatively easily
-  | dominance cards: dominance is a viable option for you
+  | dominance cards:
+  | - dominance is a viable option for you
+  | - you can trade bird cards for non-bird dominance cards to use them for their faction
 Strategy Against:
   | discard to prevent hated outcasts
   | strike undefended gardens
@@ -531,7 +545,7 @@ Strategy:
   | raid for points if you have the opportunity
   | craft for points
 Strategy Against:
-  | prevent them from spreading
+  | prevent them from spreading so they can't sway their ministers
   | destroy their buildings
 
 Corvid Conspiracy (reach 3)
@@ -742,7 +756,7 @@ From low to high:
 Chance to Win
 ^^^^^^^^^^^^^
 
-From low to high:
+From high to low:
 
   | Hundreds
   | Duchy/Eyrie
