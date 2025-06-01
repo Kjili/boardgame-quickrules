@@ -123,7 +123,7 @@
 
 ### Wertung
 
-- Spieler mit den meisten Punkten (dann Gold, dann Waren) gewinnt, addiere:
+Spieler mit den meisten Punkten (dann Gold, dann Waren) gewinnt, addiere:
 - je 2 Wasser = 1 Siegpunkt
 - vollständige 4er-Reihe, nur gleiche Symbole = 4 Siegpunkte
 - vollständige 4er-Reihe, nur unterschiedliche Symbole = 2 Siegpunkte
