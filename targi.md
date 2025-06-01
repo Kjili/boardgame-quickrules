@@ -1,3 +1,9 @@
+# Targi
+
+- **Zeit**: 30 min pro Spieler
+- **Anzahl Spieler**: (1-)2, *Solo-Mode mit Erweiterung*
+- **Style**: competitive worker placement game
+
 ## Aufbau
 
 1. Randkarten (auswählen und) auslegen
