@@ -1,17 +1,17 @@
 ## Aufbau
 
-1. **Randkarten** (auswählen und) auslegen
-2. **Stapel**:
+1. Randkarten (auswählen und) auslegen
+2. Stapel vorbereiten:
 
    - Stammeskarten (auswählen und) mischen, neben Feld 14 (Stammeserweiterung) legen, 1 Karte als Ablagestapel ziehen
    - Warenkarten mischen und neben Feld 13 legen
-   - Wanderdünen mischen und **drei aufdecken**
-3. **Mittelfeld auslegen**: 4 Stammeskarten, 5 Warenkarten
-4. **Jeder Spieler erhält**:
+   - Wanderdünen mischen und drei aufdecken
+3. Mittelfeld auslegen: 4 Stammeskarten, 5 Warenkarten
+4. Jeder Spieler erhält:
 
    - Targi, Stammesmarker
    - 1 Salz, 1 Pfeffer, 1 Datteln, 2 Wasser, 1 Gold, 4 Siegpunkte
-5. **ggf. Herausforderungen wählen**:
+5. ggf. Herausforderungen wählen:
 
    - 1 aus jeder Kategorie *(Punkte, Ressourcen, Auslage, Hindernisse oder Räuber)*
    - 1 der vier auf jeder Karte auswählen, überlappend neben dem Spielfeld auslegen
@@ -89,7 +89,7 @@
 - `/` = wähle eine der Optionen
 - `()` = optionale Zusatzkosten für Sofort-Siegpunkte *(Endwertung zählt nur Punkte ohne Klammern)*
 - genutzte Karten in der Mitte **sofort durch Karte des anderen Typs ersetzen** (Waren- mit Stammeskarte und umgekehrt)
-- genutzte Wanderdünen ablegen
+- genutzte **Wanderdünen ablegen**
 - bei Aktionskonflikten (zwei Spieler durch Sonderaktionen auf einem Feld): Startspieler hat Vorrang, Gegenspieler geht ggf. leer aus
 
 #### Targia (wenn eigener Targi auf ihrem Randfeld)
@@ -102,8 +102,6 @@
 - 3 Wasser = 1 Gold
 - 2 Wasser = 1 Ware
 *(Tausch sonst nur über Händler oder Silberschmied möglich)*
-
----
 
 ### Rundenende maximaler Besitz
 
@@ -118,7 +116,7 @@
 
 ---
 
-### Spielende
+## Spielende
 
 - Spieler legt 12. Stammeskarte in Auslage (Spiel endet am Rundenende)
 - Räuber erreicht 4. Überfall (Spiel endet sofort nach Bezahlung)
