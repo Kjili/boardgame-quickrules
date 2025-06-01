@@ -102,6 +102,8 @@ Placing Buildings/Tokens
 Setup
 -----
 
+Two item-based characters (Vagabond, Hundreds) should not sit next to each other.
+
 Default Setup
   - select map as group
   - choose faction
@@ -326,13 +328,14 @@ general rules:
 special rules that may be unclear:
   | you never rule a clearing nor can you stop others from ruling
   | you have no warriors and are no warrior (you cannot use whatever would require these and you are not affected by warrior targeting, e.g. Alliance sympathy tokens)
+  | hostile clearing = clearing with hostile warrior
   | you can slip into an adjacent forest (also from a forest into an adjacent forest) and slip or move out of a forest to an adjacent clearing
   | slip ignores all effects preventing movement, including the Corvid's snare, and ignores the extra cost of hostile clearings
   | removing the last item from a ruin removes the ruin
   | there is one quest deck, from which three cards are drawn for setup and these three are replenished during the game
   | quest suits need to match your clearing
   | exhausting the torch allows you to take the action on your character card
-  | gets a point for each hostile piece removed during battle (warriors, buildings and tokens)
+  | gets a point for each hostile piece removed during battle (warriors, buildings and tokens) - common house rule: gets a point extra per fight in which hostile pieces were removed
   | resting repairs and refreshes the broken items, it does not refresh the unbroken ones; repairing with a hammer does not refresh an item
   | **items**:
   | - exhausting an item flips it face down (and moves it from its track to the satchel), refreshing it flips it face up, damaging it puts it in the damaged slot, repairing it puts it in the satchel or its track
@@ -661,6 +664,8 @@ General rule: Add up faction reach to get to at least 17 (challenging) or to at 
 - 25 for 5 players
 - 28 for 6 players
 (ignored with advanced setup)
+
+Avoid more than two item-based factions in one game (Hundreds + 2 Vagabonds).
 
 Six
 ^^^
